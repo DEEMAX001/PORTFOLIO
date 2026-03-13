@@ -358,6 +358,8 @@ input {
   padding: 20px;
   background-color: #18392f;
   border: none;
+  outline: none;
+  text-transform: capitalize;
 }
 
 .inputt {
@@ -391,6 +393,7 @@ textarea {
   padding: 20px;
   background-color: #18392f;
   border: none;
+  outline: none;
 }
 
 .part5 .hey {
